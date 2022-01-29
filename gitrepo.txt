@@ -1,0 +1,4 @@
+Hi I am Pradeep kumar 
+I am learning DevOps 
+In this DevOps Git is the version control tool 
+In this we stored the code 
